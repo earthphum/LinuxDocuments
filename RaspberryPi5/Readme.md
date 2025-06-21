@@ -1,2 +1,1 @@
-
-### Everything iknow bout rpi
+# Everything iknow bout rpi
