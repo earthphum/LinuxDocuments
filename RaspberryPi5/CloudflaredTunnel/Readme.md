@@ -1,2 +1,2 @@
 # Cloudflare
-For detailed setup instructions, please see [HOW TO SETUP](how_to_setup.md).
+For detailed setup instructions, please see [HOW TO SETUP](Howto_setup.md).
