@@ -1,2 +1,3 @@
 # Cloudflare
-For detailed setup instructions, please see [HOW TO SETUP](Howto_setup.md).
+### To learn how to set up Cloudflare Tunnel on your Raspberry Pi
+- [HOW TO SETUP](Howto_setup.md).
