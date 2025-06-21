@@ -15,5 +15,5 @@ sudo systemctl status docker
 ```
 test
 ```bash
-docker run -d -p 80:80 nginx
+sudo docker run -d -p 80:80 nginx
 ```
