@@ -1,6 +1,6 @@
 # Fixing Keychron HID Device Connection Issue on Linux
 
-If your **Keychron keyboard** show **HID device connected** with the **Keychron Launcher**, follow the steps below to fix it.
+If your **Keychron keyboard** show **HID device connected** when you try to connect the keyboard with the **Keychron Launcher**, follow the steps below to fix it.
 
 ---
 
