@@ -88,10 +88,3 @@ KERNEL=="hidraw*", SUBSYSTEM=="hidraw", ATTRS{idVendor}=="3434", ATTRS{idProduct
 - ❌ Using a wrong `idProduct` (each model differs).
 
 ---
-
-## ✅ Summary
-
-After applying and reloading the rules, reconnect your **Keychron keyboard**.
-The **Keychron Launcher** should now detect it properly, allowing full functionality.
-
----
